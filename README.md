@@ -1,6 +1,5 @@
 # Global-Sales-Analytics-Dashboard
 <img width="886" height="501" alt="WhatsApp Image 2026-01-22 at 3 39 50 PM" src="https://github.com/user-attachments/assets/878b083c-0dc7-4de3-9599-60489556a4be" />
-# 🌍 Global Sales Analytics Dashboard
 
 ## 📌 Overview
 This project provides an interactive analysis of global sales data, focusing on product performance, regional trends, and sales distribution.
